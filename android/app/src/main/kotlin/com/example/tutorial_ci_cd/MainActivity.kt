@@ -1,4 +1,4 @@
-package com.example.tutorial_ci_cd
+package com.zharfan.tutorialcicd
 
 import io.flutter.embedding.android.FlutterActivity
 

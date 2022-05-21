@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.tutorial_ci_cd">
+    package="com.zharfan.tutorialcicd">
    <application
         android:label="tutorial_ci_cd"
         android:name="${applicationName}"
